@@ -1,6 +1,6 @@
 # Bamazon
 
-##App instructions and details
+## App instructions and details
 
 Recording: http://g.recordit.co/yXrLW18OhE.gif
 
